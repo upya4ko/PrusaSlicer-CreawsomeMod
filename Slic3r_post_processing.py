@@ -51,7 +51,7 @@ if DEBUG:
   print('')
  
 
-# Move coursote to begining
+# Move cursor to begining
 file_input.seek(0)
 
 # Modify file
