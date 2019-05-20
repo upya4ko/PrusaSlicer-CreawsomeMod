@@ -10,7 +10,7 @@ Print settings for:
 
 
 Post-processing script:    
-Wat do file **Slic3r_post_processing.py** ?
+Wat do file **Slic3r_post_processing.py** ?    
 It move first Z move to first X Y move (to avoid scratch bed surface on first move after Home move).   
 
 Script writen on Python and tested on Windows 10 and Debian Linux.
@@ -36,7 +36,7 @@ G1 X81.978 Y98.511 E3.07866
 
 After:
 ```gcode
-73 P0 R81
+M73 P0 R81
 G92 E0    ; Reset extruder to 0 zero end of cleaning run
 G1 Z15 F9000    ; lift nozzle
 G21 ; set units to millimeters
