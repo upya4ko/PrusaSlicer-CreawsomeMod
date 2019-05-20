@@ -1,12 +1,18 @@
 # Slic3rPE - Settings
 My configuration for SlicerPE
 
-Print settings for ABS, PLA, PETg, FLEX, HIPS
+Print settings for:
+  * ABS
+  * PLA
+  * PETg
+  * FLEX
+  * HIPS
 
 
-Post-processing script:
+Post-processing script:    
 Wat do file **Slic3r_post_processing.py** ?
-It move first Z move to first X Y move (to avoid scratch bed surface on first move after Home move).
+It move first Z move to first X Y move (to avoid scratch bed surface on first move after Home move).   
+
 Script writen on Python and tested on Windows 10 and Debian Linux.
 
 Before:
