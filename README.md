@@ -1,17 +1,17 @@
-# Slic3rPE - Settings
-My configuration for SlicerPE
+# PrisaSlicer - CreawsomeMod port
+=================================
 
-Print settings for:
-  * ABS
-  * PLA
-  * PETg
-  * FLEX
-  * HIPS
+*This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*    
 
+---
 
-Post-processing script:    
-Wat do file **Slic3r_post_processing.py** ?    
-It move first Z move to first X Y move (to avoid scratch bed surface on first move after Home move).   
+## Post-processing script:      
+By default PrisaSlicer move printhead to firsl layer height and then move to print start position,
+it may scratch print bed or smash paper clips that holding glass, to avoid this problem need combine
+first Z and fist X Y move.
+
+Wat do file **PrusaSlicer_post-processing.py** ?    
+It move first Z move to first X Y move.   
 
 Script writen on Python and tested on Windows 10 and Debian Linux.
 
@@ -55,7 +55,18 @@ G1 X81.120 Y99.099 E3.04778
 G1 X81.978 Y98.511 E3.07866
 ```
 
-To enable add this line to *Print Settings > Output options > Post-processing scripts*
+---
+
+### How to install **PrusaSlicer_post-processing.py**:
+#### For Windows:   
+Download [Python for Windows](https://www.python.org/ftp/python/3.6.1/python-3.6.1-embed-win32.zip) 
+and extract python.exe to any location.   
+
+Download **PrusaSlicer_post-processing.py** to any location.   
+
+Add line to *Print Settings > Output options > Post-processing scripts*
 ```
-D:\Programs\python36.exe D:\Programs\Slic3r_post_processing.py;
+D:\Programs\python36.exe D:\Programs\PrusaSlicer\post-processing\PrusaSlicer_post-processing.py;
 ```
+#### For Linux:   
+Not complite...
