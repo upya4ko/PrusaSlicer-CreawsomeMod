@@ -5,6 +5,18 @@
 
 ---
 
+## How to install this mod:
+### For Windows:
+  * Clone repo or download as ZIP
+  * Copy **filament/*** to **%appdata%\PrusaSlicer\filament**   
+  * Copy **print/*** to **%appdata%\PrusaSlicer\print**   
+  * Copy **printer/*** to **%appdata%\PrusaSlicer\printer**   
+
+### For Linux:
+  * Not complite...
+
+---
+
 ## Post-processing script:      
 By default PrisaSlicer move printhead to firsl layer height and then move to print start position,
 it may scratch print bed or smash paper clips that holding glass, to avoid this problem need combine
