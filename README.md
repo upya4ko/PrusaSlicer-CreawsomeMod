@@ -23,7 +23,7 @@
 ---
 
 ## Post-processing script:      
-By default PrusaSlicer move printhead to firsl layer height and then move to print start position,
+By default PrusaSlicer move printhead to first layer height and then move to print start position,
 it may scratch print bed or smash paper clips that holding glass, to avoid this problem need combine
 first Z and fist X Y move.
 
