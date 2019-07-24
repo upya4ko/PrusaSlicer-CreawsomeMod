@@ -1,5 +1,5 @@
-# PrisaSlicer - CreawsomeMod port
-=================================
+# PrusaSlicer - CreawsomeMod port
+
 
 *This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*    
 
@@ -18,7 +18,7 @@
 ---
 
 ## Post-processing script:      
-By default PrisaSlicer move printhead to firsl layer height and then move to print start position,
+By default PrusaSlicer move printhead to firsl layer height and then move to print start position,
 it may scratch print bed or smash paper clips that holding glass, to avoid this problem need combine
 first Z and fist X Y move.
 
@@ -74,7 +74,7 @@ G1 X81.978 Y98.511 E3.07866
 Download [Python for Windows](https://www.python.org/ftp/python/3.6.1/python-3.6.1-embed-win32.zip) 
 and extract python.exe to any location.   
 
-Download **PrusaSlicer_post-processing.py** to any location.   
+Download [**PrusaSlicer_post-processing.py**](https://github.com/McPcholkin/PrusaSlicer-CreawsomeMod/raw/master/post-processing/PrusaSlicer_post-processing.py) to any location.   
 
 Add line to *Print Settings > Output options > Post-processing scripts*
 ```
