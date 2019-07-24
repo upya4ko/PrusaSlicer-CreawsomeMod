@@ -9,9 +9,9 @@
 ## How to install this mod:
 ### For Windows:
   1. Clone repo or download as ZIP
-  2. Copy **printer/\*** to **%appdata%\PrusaSlicer\printer\**
-  3. Copy **filament/\*** to **%appdata%\PrusaSlicer\filament\**   
-  4. Copy **print/\*** to **%appdata%\PrusaSlicer\print\**   
+  2. Copy **printer/\*** to **%appdata%\PrusaSlicer\printer\\**
+  3. Copy **filament/\*** to **%appdata%\PrusaSlicer\filament\\**   
+  4. Copy **print/\*** to **%appdata%\PrusaSlicer\print\\**   
   5. Select new profile for printer 
   6. Select new profile for filament   
   7. Select new profile for print 
