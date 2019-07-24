@@ -1,5 +1,6 @@
 # PrusaSlicer - CreawsomeMod port
 
+# IN DEVELOPMENT!!!
 
 *This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*    
 
@@ -8,9 +9,13 @@
 ## How to install this mod:
 ### For Windows:
   * Clone repo or download as ZIP
-  * Copy **filament/*** to **%appdata%\PrusaSlicer\filament**   
-  * Copy **print/*** to **%appdata%\PrusaSlicer\print**   
-  * Copy **printer/*** to **%appdata%\PrusaSlicer\printer**   
+  * Copy **printer/*** to **%appdata%\PrusaSlicer\printer\**
+  * Copy **filament/*** to **%appdata%\PrusaSlicer\filament\**   
+  * Copy **print/*** to **%appdata%\PrusaSlicer\print\**   
+  * Select new profile for printer 
+  * Select new profile for filament   
+  * Select new profile for print 
+  
 
 ### For Linux:
   * Not complite...
