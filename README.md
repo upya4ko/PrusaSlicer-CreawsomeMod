@@ -8,13 +8,13 @@
 
 ## How to install this mod:
 ### For Windows:
-  * Clone repo or download as ZIP
-  * Copy **printer/*** to **%appdata%\PrusaSlicer\printer\**
-  * Copy **filament/*** to **%appdata%\PrusaSlicer\filament\**   
-  * Copy **print/*** to **%appdata%\PrusaSlicer\print\**   
-  * Select new profile for printer 
-  * Select new profile for filament   
-  * Select new profile for print 
+  1. Clone repo or download as ZIP
+  2. Copy **printer/\*** to **%appdata%\PrusaSlicer\printer\**
+  3. Copy **filament/\*** to **%appdata%\PrusaSlicer\filament\**   
+  4. Copy **print/\*** to **%appdata%\PrusaSlicer\print\**   
+  5. Select new profile for printer 
+  6. Select new profile for filament   
+  7. Select new profile for print 
   
 
 ### For Linux:
