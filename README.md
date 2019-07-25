@@ -6,6 +6,11 @@
 
 ---
 
+## Supported printers:
+  * Ender 3   
+
+---
+
 ## How to install this mod:
 ### For Windows:
   1. Clone repo or download as ZIP
@@ -34,11 +39,6 @@ Script writen on Python and tested on Windows 10 and Debian Linux.
 
 Before:
 ```gcode
-M73 P0 R81
-G92 E0    ; Reset extruder to 0 zero end of cleaning run
-G1 Z15 F9000    ; lift nozzle
-G21 ; set units to millimeters
-G90 ; use absolute coordinates
 M82 ; use absolute distances for extrusion
 G92 E0
 G1 Z0.200 F7800.000      ; <<<<<<<<<<<<<<<<<<<   
@@ -53,11 +53,6 @@ G1 X81.978 Y98.511 E3.07866
 
 After:
 ```gcode
-M73 P0 R81
-G92 E0    ; Reset extruder to 0 zero end of cleaning run
-G1 Z15 F9000    ; lift nozzle
-G21 ; set units to millimeters
-G90 ; use absolute coordinates
 M82 ; use absolute distances for extrusion
 G92 E0
 ; Z moved to first X move   ; <<<<<<<<<<<<<<<<<<<<<<<<<<
