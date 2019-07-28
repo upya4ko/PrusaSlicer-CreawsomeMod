@@ -9,6 +9,18 @@
 ## Supported printers:
   * Ender 3   
 
+## Available profiles:
+  * 0.12_Super_Quality   
+  * 0.20_Standard_Quality   
+  * 0.28_Low_Quality   
+  * Stupid_Fast_0.28_Low_Quality   
+  * Vase_0.12_Super_Quality   
+  * Vase_0.28_Low_Quality   
+  
+## Available materials:
+  * PLA   
+  * ABS   
+  * HIPS   
 ---
 
 ## How to install this mod:
