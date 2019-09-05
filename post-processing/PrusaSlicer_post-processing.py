@@ -33,7 +33,7 @@ file_output = open(FILE_PATH + ".new", "w")
 for search_line in file_input:
   if DEBUG:
     print('Search for parameters...')
-  if 'first_layer_height' in search_line:
+  if 'first_layer_height = ' in search_line:
     get_first_layer_height = search_line.split("=")
     get_first_layer_height = get_first_layer_height[1].rstrip("\n").lstrip(" ")
     FIRST_LAYER_H = 'G1 Z' + get_first_layer_height 
