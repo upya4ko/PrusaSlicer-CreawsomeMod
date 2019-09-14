@@ -2,9 +2,9 @@
 
 # IN DEVELOPMENT!!!
 
-*Tested on PrusaSlicer 2.1.0-rc* 
-*This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*   
-*Important: my printer have some modifications to improve print quality and silence, see Recomended upgrades*
+*Tested on PrusaSlicer 2.1.0-rc*   
+*This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*     
+*Important: my printer have some modifications to improve print quality and silence, see Recomended upgrades*   
 
 ---
 
@@ -31,10 +31,8 @@
   
 ## Available materials:
   * PLA   
-  * ABS   
-  * ABS with cooling    
+  * ABS    
   * HIPS   
-  * HIPS with cooling   
 ---
 
 ## How to install this mod:
