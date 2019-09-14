@@ -17,6 +17,7 @@
   * NEMA 17 Steel and Rubber Stepper Motor Vibration Damper
   * thermal box
   * [Hero Me Fanduct](https://www.thingiverse.com/thing:3092044)
+  * Springs
 
 ## Supported printers:
   * Ender 3   
@@ -27,11 +28,13 @@
   * 0.28_Low_Quality   
   * Stupid_Fast_0.28_Low_Quality   
   * Vase_0.12_Super_Quality   
-  * Vase_0.28_Low_Quality   
+  * Vase_0.28_Low_Quality
+  * Gears_0.20_Standard_Quality
   
 ## Available materials:
   * PLA   
-  * ABS    
+  * ABS
+  * PETg
   * HIPS   
 ---
 
