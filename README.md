@@ -2,9 +2,21 @@
 
 # IN DEVELOPMENT!!!
 
-*This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*    
+*Tested on PrusaSlicer 2.1.0-rc* 
+*This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*   
+*Important: my printer have some modifications to improve print quality and silence, see Recomended upgrades*
 
 ---
+
+## Recomended upgrades:
+  * [Ultrabase like](https://www.creality3d.shop/collections/accessories/products/upgrade-silicon-carbon-ender-3-build-surface-tempered-glass-plate-with-special-chemical-coating-235x235x3mm-for-mk2-mk3-hot-bed) - it incredible, just try.
+  * tl smoother to all steppers
+  * USB bitrate increace
+  * Octoprint
+  * Stock marlin 
+  * NEMA 17 Steel and Rubber Stepper Motor Vibration Damper
+  * thermal box
+  * [Hero Me Fanduct](https://www.thingiverse.com/thing:3092044)
 
 ## Supported printers:
   * Ender 3   
@@ -20,7 +32,9 @@
 ## Available materials:
   * PLA   
   * ABS   
+  * ABS with cooling    
   * HIPS   
+  * HIPS with cooling   
 ---
 
 ## How to install this mod:
