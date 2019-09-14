@@ -9,7 +9,7 @@
 ---
 
 ## Recomended upgrades:
-  * [Ultrabase like](https://www.creality3d.shop/collections/accessories/products/upgrade-silicon-carbon-ender-3-build-surface-tempered-glass-plate-with-special-chemical-coating-235x235x3mm-for-mk2-mk3-hot-bed) - it incredible, just try.
+  * [Ultrabase like glass](https://www.creality3d.shop/collections/accessories/products/upgrade-silicon-carbon-ender-3-build-surface-tempered-glass-plate-with-special-chemical-coating-235x235x3mm-for-mk2-mk3-hot-bed) - it incredible, just try.
   * tl smoother to all steppers
   * USB bitrate increace
   * Octoprint
