@@ -8,7 +8,7 @@
 
 ## Recomended upgrades:
   * [Fresh marlin with enabled thermal runaway](https://www.youtube.com/watch?v=fIl5X2ffdyo) - safety first!
-  * [Ultrabase like glass](https://www.creality3d.shop/collections/accessories/products/upgrade-silicon-carbon-ender-3-build-surface-tempered-glass-plate-with-special-chemical-coating-235x235x3mm-for-mk2-mk3-hot-bed) - it incredible, just try and forget about glue and scraper.
+  * ["Ultrabase like" glass](https://www.creality3d.shop/collections/accessories/products/upgrade-silicon-carbon-ender-3-build-surface-tempered-glass-plate-with-special-chemical-coating-235x235x3mm-for-mk2-mk3-hot-bed) - it incredible, just try and forget about glue and scraper.
   * [TL smoothers](https://ru.aliexpress.com/item/32810007015.html?spm=a2g0s.9042311.0.0.274233edxACo5q) to all steppers - remove salmon skin.
   * [NEMA 17 Steel and Rubber Stepper Motor Vibration Damper](https://ru.aliexpress.com/wholesale?catId=0&initiative_id=SB_20190915034629&SearchText=NEMA+17+Vibration+Damper&switch_new_app=y) - reduce noice.
   * Thermal box - need to ptint ABS and HIPS.
@@ -32,6 +32,7 @@
 ## Available materials:
   * PLA   
   * ABS
+  * ABS Hi-Temp
   * PETg
   * HIPS   
 ---
