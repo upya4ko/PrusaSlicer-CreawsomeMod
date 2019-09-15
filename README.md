@@ -1,7 +1,5 @@
 # PrusaSlicer - CreawsomeMod port
 
-# IN DEVELOPMENT!!!
-
 *Tested on PrusaSlicer 2.1.0-rc*   
 *This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*     
 *Important: my printer have some modifications to improve print quality and silence, see Recomended upgrades*   
@@ -9,15 +7,15 @@
 ---
 
 ## Recomended upgrades:
-  * [Ultrabase like glass](https://www.creality3d.shop/collections/accessories/products/upgrade-silicon-carbon-ender-3-build-surface-tempered-glass-plate-with-special-chemical-coating-235x235x3mm-for-mk2-mk3-hot-bed) - it incredible, just try.
-  * tl smoother to all steppers
-  * USB bitrate increace
-  * Octoprint
-  * Stock marlin 
-  * NEMA 17 Steel and Rubber Stepper Motor Vibration Damper
-  * thermal box
-  * [Hero Me Fanduct](https://www.thingiverse.com/thing:3092044)
-  * Springs
+  * [Fresh marlin with enabled thermal runaway](https://www.youtube.com/watch?v=fIl5X2ffdyo) - safety first!
+  * [Ultrabase like glass](https://www.creality3d.shop/collections/accessories/products/upgrade-silicon-carbon-ender-3-build-surface-tempered-glass-plate-with-special-chemical-coating-235x235x3mm-for-mk2-mk3-hot-bed) - it incredible, just try and forget about glue and scraper.
+  * [TL smoothers](https://ru.aliexpress.com/item/32810007015.html?spm=a2g0s.9042311.0.0.274233edxACo5q) to all steppers - remove salmon skin.
+  * [NEMA 17 Steel and Rubber Stepper Motor Vibration Damper](https://ru.aliexpress.com/wholesale?catId=0&initiative_id=SB_20190915034629&SearchText=NEMA+17+Vibration+Damper&switch_new_app=y) - reduce noice.
+  * Thermal box - need to ptint ABS and HIPS.
+  * [Hero Me Fanduct](https://www.thingiverse.com/thing:3092044) - better cooling with 5015 fan.
+  * [Better springs 0.8x0.4x2cm(0.3x0.160.8inch)(ODxIDxL)](https://ru.aliexpress.com/item/32991429216.html?spm=a2g0s.9042311.0.0.274233ed0rkQdU) - hold bed leveling much longer.
+  * [Octoprint](https://www.youtube.com/watch?v=SvZjNSLXAJc) - if you want send job to printer in 2 clicks, must have if you print small parts one by one (prototyping).
+  * [USB bitrate increace](https://www.thingiverse.com/thing:3626658?fbclid=IwAR1aeB2u3cLCRprocxgbzeCFYMaBGLWcW7z47T3M9EzIA6kJ9vJYJn1P2YE) - need to fix [zits and blobs](https://www.facebook.com/groups/Ender3/permalink/715827812187645/) when printing from octoprint or PC using USB.
 
 ## Supported printers:
   * Ender 3   
