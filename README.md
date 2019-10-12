@@ -1,6 +1,6 @@
 # PrusaSlicer - CreawsomeMod port
 
-*Tested on PrusaSlicer 2.1.0*   
+*Tested on [PrusaSlicer 2.1.0](https://github.com/prusa3d/PrusaSlicer/releases)*   
 *This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*     
 *Important: my printer have some modifications to improve print quality and silence, see Recomended upgrades*   
 
