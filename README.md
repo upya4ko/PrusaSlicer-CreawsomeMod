@@ -1,16 +1,12 @@
 # PrusaSlicer - CreawsomeMod port
 
-<<<<<<< HEAD
 *Tested on PrusaSlicer 2.1.0*   
-=======
-*Tested on [PrusaSlicer 2.1.0-rc](https://github.com/prusa3d/PrusaSlicer/releases)*   
->>>>>>> 3fceacf765f27be75b836ffa760b27462275ec0d
 *This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*     
-*Important: my printer have some modifications to improve print quality and silence, see Recommended upgrades*   
+*Important: my printer have some modifications to improve print quality and silence, see Recomended upgrades*   
 
 ---
 
-## Recommended upgrades:
+## Recomended upgrades:
   * [Fresh marlin with enabled thermal runaway](https://www.youtube.com/watch?v=fIl5X2ffdyo) - safety first!
   * ["Ultrabase like" glass](https://www.creality3d.shop/collections/accessories/products/upgrade-silicon-carbon-ender-3-build-surface-tempered-glass-plate-with-special-chemical-coating-235x235x3mm-for-mk2-mk3-hot-bed) - it incredible, just try and forget about glue and scraper.
   * [TL smoothers](https://ru.aliexpress.com/item/32810007015.html?spm=a2g0s.9042311.0.0.274233edxACo5q) to all steppers - remove salmon skin.
@@ -19,7 +15,7 @@
   * [Hero Me Fanduct](https://www.thingiverse.com/thing:3092044) - better cooling with 5015 fan.
   * [Better springs 0.8x0.4x2cm(0.3x0.160.8inch)(ODxIDxL)](https://ru.aliexpress.com/item/32991429216.html?spm=a2g0s.9042311.0.0.274233ed0rkQdU) - hold bed leveling much longer.
   * [Octoprint](https://www.youtube.com/watch?v=SvZjNSLXAJc) - if you want send job to printer in 2 clicks, must have if you print small parts one by one (prototyping).
-  * [USB bitrate increase](https://www.thingiverse.com/thing:3626658?fbclid=IwAR1aeB2u3cLCRprocxgbzeCFYMaBGLWcW7z47T3M9EzIA6kJ9vJYJn1P2YE) - need to fix [zits and blobs](https://www.facebook.com/groups/Ender3/permalink/715827812187645/) when printing from octoprint or PC using USB.
+  * [USB bitrate increace](https://www.thingiverse.com/thing:3626658?fbclid=IwAR1aeB2u3cLCRprocxgbzeCFYMaBGLWcW7z47T3M9EzIA6kJ9vJYJn1P2YE) - need to fix [zits and blobs](https://www.facebook.com/groups/Ender3/permalink/715827812187645/) when printing from octoprint or PC using USB.
 
 ## Supported printers:
   * Ender 3   
@@ -53,7 +49,7 @@
   
 
 ### For Linux:
-  * Not complete...
+  * Not complite...
 
 ---
 
@@ -65,7 +61,7 @@ first Z and fist X Y move.
 Wat do file **PrusaSlicer_post-processing.py** ?    
 It move first Z move to first X Y move.   
 
-Script written on Python and tested on Windows 10 and Debian Linux.
+Script writen on Python and tested on Windows 10 and Debian Linux.
 
 Before:
 ```gcode
@@ -111,4 +107,4 @@ Add line to *Print Settings > Output options > Post-processing scripts*
 D:\Programs\python36.exe D:\Programs\PrusaSlicer\post-processing\PrusaSlicer_post-processing.py;
 ```
 #### For Linux:   
-Not complete...
+Not complite...
