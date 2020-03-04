@@ -1,6 +1,10 @@
+# After release [PrusaSlicer 2.2.0](https://github.com/prusa3d/PrusaSlicer/releases/latest) this project is usless.
+After PrusaSlicer 2.2.0 it have presets for Creality Ender 3, i test this presets and get results better than my profile, so for now project abandoned.
+
+---
+
 # PrusaSlicer - CreawsomeMod port
 
-## Project temporary abandoned.
 
 *Tested on [PrusaSlicer 2.1.0](https://github.com/prusa3d/PrusaSlicer/releases)*   
 *This port based on [CreawsomeMod for Cura](https://github.com/trouch/CreawsomeMod)*     
